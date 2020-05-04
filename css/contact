@@ -1,0 +1,21 @@
+#contact {
+  background-image: url("https://preview.ibb.co/eBWSQv/alejandro_escamilla_10_Easy_Resize_com.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 54em;
+}
+
+#contact-box {
+  height: 50%;
+  background-color: white;
+}
+
+#contact-box h5 {
+  margin-top: 40px;
+}
+
+#contact-box form {
+  margin-top: 20px;
+}
